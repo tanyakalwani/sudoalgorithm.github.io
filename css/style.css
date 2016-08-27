@@ -1,0 +1,202 @@
+#banner{
+    color: white;
+    height: 100vh;
+    background-position: center;
+    background-image: url(../assets/bannerImage.jpg);
+    justify-content: center; 
+    align-items: center;
+    
+}
+
+#banner h1{
+   position: absolute;
+    margin-top: 4%;
+   top: 62%;       
+   left: 25%;
+   width: 50%;
+   display: block;
+}
+
+#logoBanner{
+   position: absolute;
+   left: 25%;
+   top: 30%; 
+   width: 50%;
+   display: block;
+}
+
+#apply{
+    margin-top: 5%;
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 12px 40px;
+    background-color: #F0B541;
+    border: 0px;
+    font-size: 20px;
+    display: block;    
+}
+
+#banner h1{
+    text-align: center;
+    font-family: 'Catamaran', sans-serif;
+    margin: 0px;
+}
+
+#section1{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 22px;
+    justify-content: center;
+    padding: 60px 0;
+    background-color: rgb(240,240,240);
+    border: 0;
+    
+}
+
+#section4{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 22px;
+    justify-content: center;
+    padding: 50px 0;
+    background-color: rgb(240,240,240);
+    border: 0;
+    
+}
+
+#section4 img{
+    margin-right: 140px;
+}
+
+.screen{
+    width: 70%;
+    height: 730px;
+    margin-right: 20px;
+}
+
+#section2{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 22px;
+    justify-content: center;
+    padding: 50px 0;
+    background-color: rgb(250,250,250);
+}
+
+.textSection{
+    margin-top: 25%;
+}
+
+.textSection2{
+    margin-top: 50%;
+    margin-bottom: 50%;
+}
+
+.textSection3{
+    margin-top: 50%;
+    margin-bottom: 50%;
+}
+
+#section3{
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Open Sans', sans-serif;
+    padding: 50px 0;
+    background-color: rgb(240,240,240);
+}
+
+#section3 h2{
+    margin-bottom: 40px;
+}
+
+#exampleTextarea,#exampleInputEmail1{
+    margin-top: 20px;
+    margin-bottom: -10px;
+    width: 50%;
+    padding: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#submit{
+    padding: 12px 40px;
+    font-size: 20px;
+}
+
+#footer{
+    background-color: #29282B;
+    padding: 30px 0;
+}
+
+#footer h5{
+    color: white;
+    font-size: 18px;
+    
+}
+
+.footerText{
+    color: white;
+    font-size: 16px;
+}
+
+.icon{
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+}
+
+ul{
+    padding: 0px;
+}
+
+.socialMedia{
+    display: inline;
+    
+}
+
+#footer1{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 16px;
+    
+}
+
+#team{
+    text-align: center;
+    padding: 70px 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.teamImages{
+    border-radius: 50%;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+#team h2{
+    margin-bottom: 50px;
+    
+}
+
+#team p{
+    margin-bottom: 10px;
+    margin-left: 25px;
+}
+
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.icon:hover{
+    color: dodgerblue;
+}
+
+#screen{
+    width: 133%;
+    height: 730px;
+    margin-left: -40%
+    
+}
