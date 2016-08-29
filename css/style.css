@@ -200,3 +200,15 @@ a{
     margin-left: -40%
     
 }
+
+.modal-body p{
+    font-size: 38px;
+}
+
+.modal-footer{
+    text-align: center;
+}
+
+#modelClose{
+    padding: 10px 35px;
+}
